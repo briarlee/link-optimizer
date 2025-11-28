@@ -1,8 +1,0 @@
-[00:00:02.070] Server  LOG      ✓ Ready in 1874ms
-[00:00:15.817] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:09:45.846] Server  ERROR   Error scraping mailto:info@westshorefurniture.com: TypeError: fetch failed
-[00:10:40.364] Server  ERROR   Error scraping https://westshorefurniture.com/wp-content/uploads/2025/04/westshore-Australia-client.webp: TimeoutError: The operation was aborted due to timeout
-[00:10:42.025] Server  ERROR   Error scraping https://westshorefurniture.com/wp-content/uploads/2025/04/Westshore-Sydney-Client.webp: TypeError: fetch failed
-[00:12:07.408] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:16:17.675] Server  ERROR   Error scraping mailto:info@westshorefurniture.com: TypeError: fetch failed
-[00:18:19.055] Server  ERROR   Error scraping mailto:info@westshorefurniture.com: TypeError: fetch failed
